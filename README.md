@@ -1,0 +1,1 @@
+# GCP_NEWS_PROJECT
